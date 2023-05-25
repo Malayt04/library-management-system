@@ -14,6 +14,35 @@ NPM(Node Package Manager)
 
 3->Start the server using node index.js
 
+4->The API will be accessible at http://localhost:3000
+
+
+# API Endpoints 
+
+# Get all books
+URL: /books
+Method: GET
+Description: Retrieves all books in the library.
+
+#Get a single book
+URL: /books/{bookId}
+Method: GET
+Description: Retrieves a specific book by ID.
+
+#Create a new book
+URL: /books
+Method: POST
+Description: Creates a new book.
+
+# Update a book
+URL: /books/{bookId}
+Method: PATCH
+Description: Updates an existing book.
+
+# Delete a book
+URL: /books/{bookId}
+Method: DELETE
+Description: Deletes a book.
 
 
 
