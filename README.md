@@ -1,8 +1,9 @@
 # library-management-system
 This is a CRUD API for Library Management System
 
-#Technologies and Packages used 
+# Technologies and Packages used 
 Node js
+
 NPM(Node Package Manager)
 
 # Installation 
@@ -20,28 +21,44 @@ NPM(Node Package Manager)
 # API Endpoints 
 
 # Get all books
+
 URL: /books
+
 Method: GET
+
 Description: Retrieves all books in the library.
 
 # Get a single book
+
 URL: /books/{bookId}
+
 Method: GET
+
 Description: Retrieves a specific book by ID.
 
 # Create a new book
+
+
 URL: /books
+
 Method: POST
+
 Description: Creates a new book.
 
 # Update a book
+
 URL: /books/{bookId}
+
 Method: PATCH
+
 Description: Updates an existing book.
 
 # Delete a book
+
 URL: /books/{bookId}
+
 Method: DELETE
+
 Description: Deletes a book.
 
 
