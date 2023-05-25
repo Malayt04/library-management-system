@@ -6,6 +6,12 @@ Node js
 
 NPM(Node Package Manager)
 
+Express 
+
+Body Parser
+
+uuid 
+
 # Installation 
 
 1->Initialise npm in your folder
