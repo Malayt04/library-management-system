@@ -24,12 +24,12 @@ URL: /books
 Method: GET
 Description: Retrieves all books in the library.
 
-#Get a single book
+# Get a single book
 URL: /books/{bookId}
 Method: GET
 Description: Retrieves a specific book by ID.
 
-#Create a new book
+# Create a new book
 URL: /books
 Method: POST
 Description: Creates a new book.
